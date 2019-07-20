@@ -12,3 +12,5 @@ npm-debug.log
 yarn-error.log
 /storage
 .env.example
+ .DS_Store
+ resources/js/components/Example.js
